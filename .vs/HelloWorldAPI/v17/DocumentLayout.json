@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RENTIT\\source\\repos\\HelloWorldAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B0186D-50C9-4F86-8DAA-A79B4DB7D27E}|HelloWorldAPI\\HelloWorldAPI.csproj|c:\\users\\rentit\\source\\repos\\helloworldapi\\helloworldapi\\controllers\\helloworldapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B0186D-50C9-4F86-8DAA-A79B4DB7D27E}|HelloWorldAPI\\HelloWorldAPI.csproj|solutionrelative:helloworldapi\\controllers\\helloworldapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2090367263:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorldAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\RENTIT\\source\\repos\\HelloWorldAPI\\HelloWorldAPI\\Controllers\\HelloWorldAPIController.cs",
+              "RelativeDocumentMoniker": "HelloWorldAPI\\Controllers\\HelloWorldAPIController.cs",
+              "ToolTip": "C:\\Users\\RENTIT\\source\\repos\\HelloWorldAPI\\HelloWorldAPI\\Controllers\\HelloWorldAPIController.cs",
+              "RelativeToolTip": "HelloWorldAPI\\Controllers\\HelloWorldAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:21:42.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
